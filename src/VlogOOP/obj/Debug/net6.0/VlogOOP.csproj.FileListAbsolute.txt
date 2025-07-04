@@ -1,0 +1,15 @@
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\bin\Debug\net6.0\VlogOOP.exe
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\bin\Debug\net6.0\VlogOOP.deps.json
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\bin\Debug\net6.0\VlogOOP.runtimeconfig.json
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\bin\Debug\net6.0\VlogOOP.dll
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\bin\Debug\net6.0\VlogOOP.pdb
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.AssemblyInfoInputs.cache
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.AssemblyInfo.cs
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.csproj.CoreCompileInputs.cache
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.sourcelink.json
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.dll
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\refint\VlogOOP.dll
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.pdb
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\VlogOOP.genruntimeconfig.cache
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\10.CSharp-VlogOOP-Showcase\CSharp-VlogOOP-Showcase\src\VlogOOP\obj\Debug\net6.0\ref\VlogOOP.dll

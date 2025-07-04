@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\xsclubpromoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\xsclubpromoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\omniaclubpromoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\omniaclubpromoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\ivlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\ivlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\ibodybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\ibodybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\promoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\promoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|d:\\1.projects\\1.portfolio\\2.opensource\\2.applications_pushtogit\\10.csharp-vlogoop-showcase\\csharp-vlogoop-showcase\\src\\vlogoop\\blogwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD601F-257F-3626-0CAA-FC3493B2434A}|VlogOOP\\VlogOOP.csproj|solutionrelative:vlogoop\\blogwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XSClubPromoter.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\XSClubPromoter.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\XSClubPromoter.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\XSClubPromoter.cs",
+              "RelativeToolTip": "VlogOOP\\XSClubPromoter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\Program.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\Program.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\Program.cs",
+              "RelativeToolTip": "VlogOOP\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:51.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVlogger.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\IVlogger.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\IVlogger.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\IVlogger.cs",
+              "RelativeToolTip": "VlogOOP\\IVlogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBodyBuilder.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\IBodyBuilder.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\IBodyBuilder.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\IBodyBuilder.cs",
+              "RelativeToolTip": "VlogOOP\\IBodyBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OmniaClubPromoter.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\OmniaClubPromoter.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\OmniaClubPromoter.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\OmniaClubPromoter.cs",
+              "RelativeToolTip": "VlogOOP\\OmniaClubPromoter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Promoter.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\Promoter.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\Promoter.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\Promoter.cs",
+              "RelativeToolTip": "VlogOOP\\Promoter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:34.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogWriter.cs",
+              "DocumentMoniker": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\BlogWriter.cs",
+              "RelativeDocumentMoniker": "VlogOOP\\BlogWriter.cs",
+              "ToolTip": "D:\\1.Projects\\1.Portfolio\\2.OpenSource\\2.Applications_PUSHToGit\\10.CSharp-VlogOOP-Showcase\\CSharp-VlogOOP-Showcase\\src\\VlogOOP\\BlogWriter.cs",
+              "RelativeToolTip": "VlogOOP\\BlogWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

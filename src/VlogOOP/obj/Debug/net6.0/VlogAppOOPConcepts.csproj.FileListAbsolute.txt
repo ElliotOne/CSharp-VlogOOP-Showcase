@@ -1,0 +1,15 @@
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.csproj.AssemblyReference.cache
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.AssemblyInfoInputs.cache
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.AssemblyInfo.cs
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.csproj.CoreCompileInputs.cache
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\bin\Debug\net6.0\VlogAppOOPConcepts.exe
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\bin\Debug\net6.0\VlogAppOOPConcepts.deps.json
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\bin\Debug\net6.0\VlogAppOOPConcepts.runtimeconfig.json
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\bin\Debug\net6.0\VlogAppOOPConcepts.dll
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\bin\Debug\net6.0\VlogAppOOPConcepts.pdb
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.dll
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\refint\VlogAppOOPConcepts.dll
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.pdb
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\VlogAppOOPConcepts.genruntimeconfig.cache
+D:\1.Projects\5.Code Base\1.Net\5.Small Projects\Vlog App OOP Concepts\VlogAppOOPConcepts\VlogAppOOPConcepts\obj\Debug\net6.0\ref\VlogAppOOPConcepts.dll
